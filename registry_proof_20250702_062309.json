@@ -1,0 +1,7 @@
+{
+    "theorem": "Reversibility Theorem",
+    "symbolic_expr": "Add(Mul(Rational(1, 2), Symbol('x')), Rational(-5, 2))",
+    "latex": "\\frac{x}{2} - \\frac{5}{2}",
+    "proof_hash": "3824e7c364d0d166a2dccd3053fdd7903c00ed63ecb88461ba0ab8a8358dc469",
+    "timestamp": "2025-07-02T06:23:09.395542"
+}

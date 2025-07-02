@@ -1,0 +1,4 @@
+{
+    "description": "Centering and scaling",
+    "source_code": "    def example_transform(x):\n        return (x - 10) / 2\n"
+}

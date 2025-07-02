@@ -1,0 +1,4 @@
+{
+    "description": "Standardization formula",
+    "symbolic_expr": "Mul(Pow(Symbol('sigma'), Integer(-1)), Add(Mul(Integer(-1), Symbol('mu')), Symbol('x')))"
+}

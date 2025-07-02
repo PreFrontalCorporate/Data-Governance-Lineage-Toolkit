@@ -1,0 +1,4 @@
+{
+    "description": "reversibility_proof",
+    "symbolic_expr": "Add(Mul(Rational(1, 2), Symbol('x')), Rational(-5, 2))"
+}

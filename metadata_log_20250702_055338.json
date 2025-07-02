@@ -1,0 +1,6 @@
+{
+    "data_file": "example_dataset.csv",
+    "file_hash": "87325f7100f7e2257562b497c4db44b8fd4596f681ee18b16c6deb070669abe4",
+    "root_hash": "87325f7100f7e2257562b497c4db44b8fd4596f681ee18b16c6deb070669abe4",
+    "transformation": "Standardization"
+}
